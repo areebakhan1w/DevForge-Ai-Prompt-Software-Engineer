@@ -15,6 +15,10 @@
 
 <br/>
 
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge)](https://dev-forge-ai-prompt-software-engine-three.vercel.app/)
+
+<br/>
+
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
 [![Vite](https://img.shields.io/badge/Vite-7-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev)
@@ -111,8 +115,8 @@ npm   >= 9.0.0
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/devforge-ai.git
-cd devforge-ai/app
+git clone https://github.com/areebakhan1w/Dev-Forge-AI-Prompt-Software-Engineer.git
+cd Dev-Forge-AI-Prompt-Software-Engineer/app
 ```
 
 **2. Install dependencies**
@@ -281,7 +285,6 @@ git push origin feature/amazing-feature
 <br/>
 
 ⭐ **If you found this useful, please give it a star!** ⭐
-
 
 <br/>
 
