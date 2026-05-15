@@ -24,10 +24,6 @@
 
 <br/>
 
-[🚀 Live Demo](#) &nbsp;|&nbsp; [📖 Docs](#documentation) &nbsp;|&nbsp; [🐛 Report Bug](#) &nbsp;|&nbsp; [✨ Request Feature](#)
-
-<br/>
-
 </div>
 
 ---
@@ -254,10 +250,6 @@ git push origin feature/amazing-feature
 # 5. Open a Pull Request 🎉
 ```
 
-Please follow [Conventional Commits](https://www.conventionalcommits.org/) for commit messages.
-
----
-
 ## 🐛 Known Issues / Roadmap
 
 - [ ] 🔌 Real AI API integration (OpenAI / Claude)
@@ -267,12 +259,6 @@ Please follow [Conventional Commits](https://www.conventionalcommits.org/) for c
 - [ ] 🌙 Dark / Light theme toggle
 - [ ] 🌍 Multi-language support
 - [ ] 📱 Improved mobile responsiveness
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
